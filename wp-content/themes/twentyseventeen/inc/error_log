@@ -1,0 +1,4 @@
+[06-Dec-2018 11:50:38 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/myarea008/public_html/angulardocs.com/wp-content/themes/twentyseventeen/inc/template-tags.php on line 195
+[06-Dec-2018 12:40:47 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/myarea008/public_html/angulardocs.com/wp-content/themes/twentyseventeen/inc/template-tags.php on line 195
+[06-Dec-2018 23:42:29 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/myarea008/public_html/angulardocs.com/wp-content/themes/twentyseventeen/inc/icon-functions.php on line 22
+[07-Dec-2018 02:08:36 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/myarea008/public_html/angulardocs.com/wp-content/themes/twentyseventeen/inc/icon-functions.php on line 22

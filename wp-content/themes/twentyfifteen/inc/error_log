@@ -1,0 +1,4 @@
+[26-Oct-2018 02:38:52 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/myarea008/public_html/angulardocs.com/wp-content/themes/twentyfifteen/inc/back-compat.php on line 26
+[26-Oct-2018 06:43:19 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/myarea008/public_html/angulardocs.com/wp-content/themes/twentyfifteen/inc/custom-header.php on line 41
+[26-Oct-2018 11:18:35 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/myarea008/public_html/angulardocs.com/wp-content/themes/twentyfifteen/inc/customizer.php on line 83
+[26-Oct-2018 15:53:07 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/myarea008/public_html/angulardocs.com/wp-content/themes/twentyfifteen/inc/template-tags.php on line 171

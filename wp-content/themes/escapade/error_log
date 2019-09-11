@@ -1,0 +1,1 @@
+[21-Mar-2018 03:52:43 UTC] PHP Fatal error:  Call to undefined function language_attributes() in /home/myarea008/public_html/angulardocs.com/wp-content/themes/escapade/header.php on line 13
